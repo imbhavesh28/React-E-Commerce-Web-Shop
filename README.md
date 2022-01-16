@@ -1,3 +1,3 @@
-# E-Commerce
-### [Live Site](https://commerce-js.netlify.app/)
+# E-Commerce Web App
+
  
