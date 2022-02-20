@@ -1,7 +1,7 @@
-# React-E-Commerce-Web-Shop
-## Introduction
+# React-E-Commerce-Web-Shop!
+## 📌Introduction
 * This Project is a An E-Commerce Web Application built using React, Material UI, Commerce.JS & Striped
-## Environment Setup
+## 📌Environment Setup
 
   #### 1. Clone App
   
@@ -13,7 +13,7 @@
     
   ```
     
- #### 2. Install node packages
+ #### 2. Install Node Packages
  
   * Move inside the cloned folder with name React-E-Commerce-Web-Shop.
   * Write the following command and press enter to download all required node modules.
